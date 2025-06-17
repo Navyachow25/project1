@@ -1,0 +1,4 @@
+Hello
+The entered
+
+The edata should be processedgit diff
